@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Inter, sans-serif;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F55A5A;
+    padding: 8px;
+}
+
+.nav-wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo {
+    margin-right: 7px;
+    width: 50px;
+}
+
+.nav-text{
+    font-size: 0.9rem;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+main {
+    display: flex;
+    padding: 80px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.image-wrapper {
+    height: 360px;
+}
+
+.fuji-image {
+    width: 220px;
+    height: 300px;
+    border-radius: 12px;
+}
+
+.wrapper-all-toleft{
+    width: 400px;
+    height: 300px;
+    justify-items: left;
+    margin-left: 38px;
+}
+
+.main-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-image {
+    width: 22px;
+}
+
+.main-country {
+    letter-spacing: 2px;
+}
+
+.main-location {
+    display: flex;
+    margin-left: 38px;
+    color: #a1a0a7;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+}
+.date {
+    display: flex;
+    align-items: center;
+}
+.desc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
