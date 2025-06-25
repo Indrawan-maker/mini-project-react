@@ -1,7 +1,10 @@
+# My journey travel 
+![{91C5BBD7-8F22-470B-ACC0-3E1C69A40225}](https://github.com/user-attachments/assets/b356026c-1873-4211-bd6f-cb4595e50c19)
+
+web ini hanya untuk kebutuhan belajar react
+
+
 # React + Vite
-
-![Uploading {91C5BBD7-8F22-470B-ACC0-3E1C69A40225}.png…]()
-
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
