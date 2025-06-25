@@ -12,7 +12,6 @@ header{
     align-items: center;
     justify-content: center;
     background-color: #F55A5A;
-    padding: 8px;
 }
 
 .nav-wrapper{
@@ -33,25 +32,26 @@ header{
 
 main {
     display: flex;
-    padding: 80px;
+    padding: 60px;
     align-items: center;
     justify-content: center;
+    margin-bottom: 35px;
 }
 
 
 .image-wrapper {
-    height: 360px;
+    height: 200px;
 }
 
 .fuji-image {
     width: 220px;
     height: 300px;
-    border-radius: 12px;
+    border-radius: 6px;
 }
 
 .wrapper-all-toleft{
     width: 400px;
-    height: 300px;
+    height: 200px;
     justify-items: left;
     margin-left: 38px;
 }
@@ -67,7 +67,7 @@ main {
 }
 
 .main-country {
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 .main-location {

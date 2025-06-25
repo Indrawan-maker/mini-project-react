@@ -21,7 +21,7 @@ export default function Entry( props ) {
             <div className="wrapper-all-toleft">
             <div className="main-wrapper">
                 <img className="main-image"
-                src="./images/location.png"
+                src="/images/location.png"
                 alt="location logo"/>
                 <span 
                 className="main-country">{props.country}</span>
