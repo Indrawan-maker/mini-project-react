@@ -1,5 +1,11 @@
+/**
+ * Challenge: Fix our component! 😱
+ */
 
-export default function Entry(props) {
+
+
+export default function Entry( props ) {
+    console.info(props)
     return (
         <>
         <main>
@@ -20,7 +26,7 @@ export default function Entry(props) {
                 <span 
                 className="main-country">{props.country}</span>
                 <a className="main-location"
-                href={props.googgleMapsLink}>
+                href={props.googleMapsLink}>
                     View On Google Maps
                     </a>
             </div>
